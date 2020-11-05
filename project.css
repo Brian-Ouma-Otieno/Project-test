@@ -1,0 +1,37 @@
+body{
+		font-size:120%;
+		background:none;
+}
+
+
+.welcome{
+		
+		padding-left:30px;
+		padding-right:30px;
+		padding-top:20px;
+		padding-bottom:20px;
+		background-color:none;
+		border:solid 2px black;
+		display:table;
+		/* position:center; */
+		margin:100px auto 100px;
+		
+	
+}
+
+.welcomelog{
+		border-bottom:none;
+		text-decoration:none;
+}
+
+#form{
+	    
+		color:none;
+		display:table;
+		padding:20px;
+		/*background-color:green; */
+		border:solid 2px black;
+		/* position:center; */
+		/* border-bottom:noneround; */
+		/* margin: 0px auto 0px; */
+}
